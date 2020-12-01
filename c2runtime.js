@@ -18865,4 +18865,3 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.GoToLayout,
 	cr.system_object.prototype.acts.SetVar
 ];};
-
